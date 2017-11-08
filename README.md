@@ -7,6 +7,11 @@ descripción de titulo
 descripción subtitulo
 
 ### GIT INIT
+
 sub del sub
-###Mi página
+### Mi página
+
+
 [Página personal](http://ariel.hol.es)
+
+[Pagina de FB](https://facebook.com)
